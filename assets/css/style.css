@@ -11,7 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  background: url("https://res.cloudinary.com/think-digital-zw/image/upload/v1659714466/67901383_1267689003400461_7734412273829019648_n_262cbdddcd.jpg")
+  background: url("https://res.cloudinary.com/think-digital-zw/image/upload/v1660072426/IMG_20220421_110203_9b33956aa4.jpg")
     top center no-repeat;
   background-size: cover;
   position: relative;
@@ -113,7 +113,7 @@ h6 {
 }
 
 #header .countdown {
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
 #header .countdown div {
